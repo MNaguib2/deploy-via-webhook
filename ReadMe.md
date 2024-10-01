@@ -1,3 +1,9 @@
+# dependance
+    -   express
+    - after running connect to ngrok
+    - then go to repository -> settings -> webhook -> in  Payload URL *  set link ngrok and in  Content type *  application/json
+    - first must clone the repository in folder app and change path in app.js
+# challenge in ubuntu
 If you haven't problem in password and must write it, the safest and most reliable approach is to configure sudo to allow your user to run specific commands without a password.
 
 Open the Sudoers File:
